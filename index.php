@@ -143,7 +143,7 @@ if ('POST' == $_SERVER['REQUEST_METHOD']) {
                 <div class="span3 offset1">
                     <h3>虚拟微信调用</h3>
 
-                    <form method="post" action="/post.php" class="">
+                    <form method="post">
                         <div class="control-group">
                             <label class="control-label" for="Host">Host</label>
                             <div class="controls">
